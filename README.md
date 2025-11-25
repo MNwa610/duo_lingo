@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Отчет по контрольной работе №4
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Краткое описание приложения
 
-## Available Scripts
+Разработан "Тренажер английских слов" - учебное приложение на React для запоминания английской лексики. Программа использует базу из 1000 самых употребительных английских слов с русскими переводами и предоставляет интуитивный интерфейс для их изучения.
 
-In the project directory, you can run:
+## Основные возможности
 
-### `npm start`
+- Обучение по базе из 1000 наиболее распространенных английских слов
+- Случайный порядок показа слов для эффективного запоминания
+- Поэтапное изучение: сначала отображается английское слово, затем по запросу - перевод
+- Адаптивный интерфейс, корректно работающий на компьютерах и мобильных устройствах
+- Простой и понятный интерфейс на русском языке
+![alt text](images/rab.png)
+![alt text](images/rab_itog.png)
+## Особенности реализации
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Используемые технологии:
+- React 18 с функциональными компонентами и хуками
+- Локальное хранение данных в формате JSON
+- Кастомные CSS-стили без внешних зависимостей
+- Адаптивная верстка для разных размеров экранов
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Архитектурные особенности:
+- Минималистичный дизайн, сфокусированный на основной задаче
+- Локальное хранение словаря, не требующее подключения к интернету
+- Интуитивная навигация с минимальным количеством элементов управления
+- Центрированная компоновка для лучшей концентрации внимания
 
-### `npm test`
+## Выводы по выполненной работе
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Достигнутые результаты:
+- Успешно создано работоспособное React-приложение в соответствии с выбранным вариантом задания
+- Реализован основной функционал тренажера для изучения слов
+- Практически применены ключевые концепции React: компоненты, состояние, обработка событий
+- Обеспечена стабильная работа приложения
+- Соблюдены требования к структуре и оформлению проекта
 
-### `npm run build`
+### Перспективы развития:
+- Внедрение системы отслеживания прогресса обучения
+- Добавление режима проверки знаний
+- Группировка слов по тематическим категориям
+- Интеграция аудио-произношения слов
+- Возможность синхронизации результатов на разных устройствах
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Заключение
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Разработанное приложение наглядно демонстрирует освоение основных принципов React-разработки и представляет собой полноценный учебный проект, готовый к практическому применению для изучения английского языка. Кодовая база соответствует современным стандартам качества и может быть расширена дополнительным функционалом.
