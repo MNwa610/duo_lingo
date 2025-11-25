@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://mnwa610.github.io/tren_slov",
+  "homepage": "https://mnwa610.github.io/duo_lingo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
