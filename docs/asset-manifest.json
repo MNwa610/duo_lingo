@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tren_slov/docs/static/css/main.7c0c63df.css",
-    "main.js": "/tren_slov/docs/static/js/main.03e941c4.js",
-    "static/js/453.b800ae48.chunk.js": "/tren_slov/docs/static/js/453.b800ae48.chunk.js",
-    "index.html": "/tren_slov/docs/index.html",
-    "main.7c0c63df.css.map": "/tren_slov/docs/static/css/main.7c0c63df.css.map",
-    "main.03e941c4.js.map": "/tren_slov/docs/static/js/main.03e941c4.js.map",
-    "453.b800ae48.chunk.js.map": "/tren_slov/docs/static/js/453.b800ae48.chunk.js.map"
+    "main.css": "/duo_lingo/docs/static/css/main.7c0c63df.css",
+    "main.js": "/duo_lingo/docs/static/js/main.26af8aff.js",
+    "static/js/453.b800ae48.chunk.js": "/duo_lingo/docs/static/js/453.b800ae48.chunk.js",
+    "index.html": "/duo_lingo/docs/index.html",
+    "main.7c0c63df.css.map": "/duo_lingo/docs/static/css/main.7c0c63df.css.map",
+    "main.26af8aff.js.map": "/duo_lingo/docs/static/js/main.26af8aff.js.map",
+    "453.b800ae48.chunk.js.map": "/duo_lingo/docs/static/js/453.b800ae48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c0c63df.css",
-    "static/js/main.03e941c4.js"
+    "static/js/main.26af8aff.js"
   ]
 }
